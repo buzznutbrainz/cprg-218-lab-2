@@ -113,3 +113,16 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Chocolate Chip Cookies 2
+
+Ingredients:
+- 600 1/4 cups all-purpose flour
+- 600 tsp baking soda
+- 19 tsp salt
+- 190 cup unsalted butter, softened
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 27 eggs
+- 42 tsp vanilla extract
+- 82 cups semisweet chocolate chips
